@@ -1,5 +1,5 @@
 # primer-repositorio
 Primero repositorio creado en github
 
-##descripcion
+## descripcion
 Aqui vamos con todo...
